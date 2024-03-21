@@ -1,8 +1,25 @@
-# React + Vite
+# Blog Website with React.js, Tailwind CSS, and more
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my Blog Website project! This is a web application built using React.js, Tailwind CSS, Redux Toolkit, Appwrite, and other technologies.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User Interface:** Interactive and responsive design with Tailwind CSS.
+- **State Management:** Utilizes Redux Toolkit for efficient state management.
+- **Rich Text Editor:** Integrated TinyMCE for a robust text editing experience.
+- **Backend Services:** Secure backend services powered by Appwrite.
+- **Form Handling:** Easy form handling with react-hook-form.
+- **Dynamic Routing:** Implemented dynamic routing using react-router-dom.
+  
+## Screenshot
+  ![image](https://github.com/AliRafiquePinjari/Blog_website/assets/105441038/254be0b0-a85c-45cb-9357-3993d0f0462d)
+
+## Live Link URL
+  https://blog-website-delta-one.vercel.app/
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+Inspired by Hitesh Choudhary's React.js tutorial.
+
